@@ -10,6 +10,12 @@ Pour installer les packages nécessaires:
 $ pip install -r requirements.txt
 ```
 
+Pour lancer le script:
+
+```bash
+$ python GAN.py
+```
+
 Pour lancer le tensorboard:
 
 ```bash
