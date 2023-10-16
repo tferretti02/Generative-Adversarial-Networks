@@ -21,3 +21,8 @@ Pour lancer le tensorboard:
 ```bash
 $ tensorboard --logdir=runs
 ```
+
+Bibliographie:
+
+<https://arxiv.org/abs/1406.2661>
+<https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/>
